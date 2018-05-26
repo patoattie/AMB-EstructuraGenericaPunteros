@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1527338588 source:f:\mis documentos\escritorio\programacion\utn\programacion 1\amb-estructuragenericapunteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"EstructuraGenericaPunteros.h"
+	"../Programacion-I/pattie/Funciones/funciones.h"
+
+1527340213 f:\mis documentos\escritorio\programacion\utn\programacion 1\amb-estructuragenericapunteros\estructuragenericapunteros.h
+
+1525209877 f:\mis documentos\escritorio\programacion\utn\programacion 1\programacion-i\pattie\funciones\funciones.h
+
+1525209889 source:f:\mis documentos\escritorio\programacion\utn\programacion 1\programacion-i\pattie\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
